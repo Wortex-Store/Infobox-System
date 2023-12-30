@@ -1,6 +1,6 @@
 # Sistema de infobox
 
-⭕ [Aqui](https://github.com/Wortex-Store/Radinho-System/wiki/Radinho) você pode consultar todas as informações sobre o sistema de infobox.
+⭕ [Aqui](https://github.com/Wortex-Store/Infobox-System/wiki/Infobox) você pode consultar todas as informações sobre o sistema de infobox.
 
 📲 **Contatos:**
 
